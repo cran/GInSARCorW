@@ -1,0 +1,17 @@
+WIDTH   140
+FILE_LENGTH   80
+XMIN          0
+XMAX          140
+YMIN          0
+YMAX          80
+X_FIRST           86.2666700
+Y_FIRST           23.8333300
+X_STEP             0.000833330000000
+Y_STEP            -0.000833330000000
+X_UNIT        degres
+Y_UNIT        degres
+Z_OFFSET      0
+Z_SCALE       1
+PROJECTION    LATLON
+DATUM         WGS84
+TIME_OF_DAY 12.350000UTC
