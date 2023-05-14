@@ -8,8 +8,6 @@
 #' @param ref_lon A reference point for correction, If NA, It use the tile center longitude.
 #' @import sp
 #' @import raster
-#' @import rgeos
-#' @import rgdal
 #' @import circular
 #' @examples
 #' library(raster)

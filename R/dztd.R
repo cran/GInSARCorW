@@ -3,8 +3,6 @@
 #' @param GACOS_ZTD_T1 ZTD time 1
 #' @param GACOS_ZTD_T2 ZTD time 2
 #' @import raster
-#' @import rgeos
-#' @import rgdal
 #' @examples
 #' library(raster)
 #' library(GInSARCorW)

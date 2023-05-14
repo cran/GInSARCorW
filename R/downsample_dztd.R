@@ -4,8 +4,6 @@
 #' @param dztd Di-ZTD.
 #' @param method Raster resampleing method "ngb" for nearest neighbor or "bilinear" for bilinear interpolation
 #' @import raster
-#' @import rgeos
-#' @import rgdal
 #' @examples
 #' library(raster)
 #' library(GInSARCorW)

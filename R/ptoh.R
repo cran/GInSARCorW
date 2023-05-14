@@ -4,8 +4,6 @@
 #' @param wavelength SAR wavelength in meter.
 #' @param unit output unit meter , centimeter or milimeter ("m", "cm" or "mm").
 #' @import raster
-#' @import rgeos
-#' @import rgdal
 #' @import circular
 #' @examples
 #' library(raster)

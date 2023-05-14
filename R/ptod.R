@@ -5,8 +5,6 @@
 #' @param unit output unit meter , centimeter or milimeter ("m", "cm" or "mm").
 #' @param inc_ang SAR incident angle (to get output in LOS direction, don't use if not needed).
 #' @import raster
-#' @import rgeos
-#' @import rgdal
 #' @import circular
 #' @examples
 #' library(raster)

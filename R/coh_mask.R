@@ -5,8 +5,6 @@
 #' @param threshold A value from coherence band above which the mask will be process.(within 0-1)
 #' @param noData_as_NA If TRUE, it convert noData to NA or 0
 #' @import raster
-#' @import rgeos
-#' @import rgdal
 #' @import circular
 #' @examples
 #' library(raster)

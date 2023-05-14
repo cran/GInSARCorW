@@ -3,8 +3,6 @@
 #' @param rscFile.path Path of the GACOS .ztd.rsc file
 #' @param noDataAsNA If true it convert 0 values to NA
 #' @import raster
-#' @import rgeos
-#' @import rgdal
 #' @importFrom utils read.table
 #' @examples
 #' library(raster)
